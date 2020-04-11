@@ -52,4 +52,4 @@ class BatteryNotifier:
 while True:
     if __name__ == "__main__":
         battery_notifier = BatteryNotifier()
-        time.sleep(20)
+        time.sleep(600)

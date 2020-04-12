@@ -1,5 +1,5 @@
-# charger_notifier
-The battery of a computer should be powered in the range between 40% and 80% to optimize its lifespan. Charger Notifier monitors the computers battery and gives you a notification when it is time to plug in or unplug the charger, so that you can make sure that your battery stays healthy for as long time as possible.
+# BatteryNotifier
+The battery of a computer should be powered in the range between 40% and 80% to optimize its lifespan. BatteryNotifier monitors the computers battery and gives you a notification when it is time to plug in or unplug the charger, so that you can make sure that your battery stays healthy for as long time as possible.
 ## Getting Started
 ### Prerequisites
 To run the script, you need to have the Python interpreter installed on your computer. You also need to run a Linux distribution.
